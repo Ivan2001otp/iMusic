@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "56028482381",
+    "project_id": "introtofirebase-6b828",
+    "storage_bucket": "introtofirebase-6b828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56028482381:android:7ae2d64baff778717e0504",
+        "android_client_info": {
+          "package_name": "com.example.introtofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56028482381-ti0o7vlotskj71qpof3d0kmaqv52ieir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7DJdnQQXPdOwQPSSzOKjJG0patbMCcFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56028482381-ti0o7vlotskj71qpof3d0kmaqv52ieir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56028482381:android:fbf724a4021429447e0504",
+        "android_client_info": {
+          "package_name": "com.ivan.imusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56028482381-ti0o7vlotskj71qpof3d0kmaqv52ieir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7DJdnQQXPdOwQPSSzOKjJG0patbMCcFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56028482381-ti0o7vlotskj71qpof3d0kmaqv52ieir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

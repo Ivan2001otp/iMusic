@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iMusic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_description">Shows currently playing music</string>
+    <string name="notification_resource">current Song</string>
+</resources>
